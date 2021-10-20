@@ -1,8 +1,8 @@
 # JenTab_solution_files
 Results files from JenTab using 3 different modes of execution for CTA
 
-## 2021
-* JenTab Solutions for SemTab 2021 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5584538.svg)](https://doi.org/10.5281/zenodo.5584538)
+## 2021 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5584538.svg)](https://doi.org/10.5281/zenodo.5584538)
+* JenTab Solutions for SemTab 2021 
 
 ## 2020 [![DOI](https://zenodo.org/badge/318490144.svg)](https://zenodo.org/badge/latestdoi/318490144)
 * JenTab Solutions for SemTab 2020 using three CTA modes 
