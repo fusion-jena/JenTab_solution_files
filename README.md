@@ -1,6 +1,17 @@
 # JenTab_solution_files
 Results files from JenTab using 3 different modes of execution for CTA
 
+## 2022
+* JenTab Solutions for SemTab 2022 using two CTA modes for Wikidata target
+	* Doesn't apply for DBpedia target, we work on `rdf:type` only.
+* **P31**
+      * selects `instanceOf` or `P31` property for each cell only 
+      * **Majority Vote** is used in the selection phase
+  * **2 Hops**
+      * selects `P31` and its parent via `P279`
+      * **LCS** is used in the selection phase
+
+
 ## 2021 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5584538.svg)](https://doi.org/10.5281/zenodo.5584538)
 * JenTab Solutions for SemTab 2021 
 
